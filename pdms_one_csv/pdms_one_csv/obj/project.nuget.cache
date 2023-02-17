@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "aQLjTn0l/PYw5h01tkUPQGQ/fXYkjPKXUag5ymYYhdkFswGEx367558P5KZXuhlQUU+rCzXUNwzrufFJcwifYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Q610267\\Desktop\\Mozammel Thesis\\PDMS\\pdms_one_csv_working\\pdms_one_csv\\pdms_one_csv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Q610267\\.nuget\\packages\\beckhoff.twincat.ads\\6.0.235\\beckhoff.twincat.ads.6.0.235.nupkg.sha512",
+    "C:\\Users\\Q610267\\.nuget\\packages\\beckhoff.twincat.ads.abstractions\\6.0.235\\beckhoff.twincat.ads.abstractions.6.0.235.nupkg.sha512",
+    "C:\\Users\\Q610267\\.nuget\\packages\\beckhoff.twincat.ads.server\\6.0.235\\beckhoff.twincat.ads.server.6.0.235.nupkg.sha512",
+    "C:\\Users\\Q610267\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Q610267\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Q610267\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Q610267\\.nuget\\packages\\system.componentmodel.composition\\6.0.0\\system.componentmodel.composition.6.0.0.nupkg.sha512",
+    "C:\\Users\\Q610267\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\Q610267\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Q610267\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Q610267\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\Q610267\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\Q610267\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\Q610267\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Q610267\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Q610267\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\Q610267\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
